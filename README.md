@@ -1,5 +1,5 @@
 # -Shipping-Rate-API
-Technical Developer Task (v2.1) Requirements: 1. Create a persistent file caching mechanism which implements given interfa
+Technical Developer Task (v2.1) Requirements: 
 1. Create a persistent file caching mechanism which implements given interface:
 https://gist.github.com/briedis/d14c4fd416bab8b8b8b873a8d677a0a6
 2. Create a class that connects to Printful's Shipping Rate API
